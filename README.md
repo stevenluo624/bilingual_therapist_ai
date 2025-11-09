@@ -1,2 +1,2 @@
-# bilingual_therapist_ai
+# Syntherapy
 An AI therapist in both English and Chinese
